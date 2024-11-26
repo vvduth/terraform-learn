@@ -31,3 +31,7 @@ variable "PUB_KEY" {
 variable "PRIV_KEY" {
   default = "ex3Key"
 }
+
+variable "MYIP" {
+  default = "80.220.152.39/32"
+}
